@@ -44,7 +44,7 @@ This project was developed by Nediou Daniel as a final project for the Node.js &
   ![Task 1 Screenshot](/screenshots/1st.png)
 
 <!-- Include other screenshots similarly -->
-
+ ![Task 1 Screenshot](/screenshots/Screenshot2024-06-07at6.43.01AM.png)
 ## Author
 
 - **Nediou Daniel**
